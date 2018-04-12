@@ -1,6 +1,6 @@
 # Building a deep autoencoder with Keras to detect anomalies in data
 
-Here an autoencoder is used to detect anomalies in data. First we create a noisy cosine wave and train a 5-layer autoencoder to reconstruct the wave.
+Here an autoencoder is used to detect anomalies in data. First we create a noisy cosine wave and train a 5-layer autoencoder to reconstruct the wave. Noisy training wave:
 
 ![Training data: noisy cosine wave](imgs/figure1.png)
 
